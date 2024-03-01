@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-team: Tigers
-
-manager: Brenda
-
-coach: Grace
-
-members:
-  - Linda
-  - William
-  - David
-  - George
-=======
 team: Tigers
 
 manager: Deborah
@@ -22,8 +9,4 @@ members:
   - William
   - David
   - George
-<<<<<<< HEAD
->>>>>>> to-merge
-=======
-  - Tyler
->>>>>>> 4ab4671 (Edit Tigers members)
+  - Kim
